@@ -28,4 +28,4 @@ let fibonacciSeq = (m) => {
     };
 };
 
-console.log(fibonacciSeq(5));
+console.log(fibonacciSeq(9));
