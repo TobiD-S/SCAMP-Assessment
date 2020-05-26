@@ -15,7 +15,7 @@ let fibonacciNum = (n) => {
     return z;
 };
 
-console.log(fibonacciNum(5));
+console.log(fibonacciNum(10));
 
 // A function fibonacciSeq to return a sequence with 'm' numbers in the Fibonacci sequence
 let fibonacciSeq = (m) => {
